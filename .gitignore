@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# omat tiedot (talletukset, kaupat, tilinumerot) eivät kuulu versionhallintaan
+tiedot/
