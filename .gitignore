@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
-# omat tiedot (talletukset, kaupat, tilinumerot) eivät kuulu versionhallintaan
+# personal data (deposits, trades, account numbers) stays out of version control
+data/
 tiedot/
